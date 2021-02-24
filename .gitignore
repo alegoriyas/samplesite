@@ -270,3 +270,4 @@ __pycache__/
 /samplesite/env/Lib/site-packages/sqlparse
 /samplesite/env/Lib/site-packages/setuptools-45.2.0.dist-info
 /samplesite/env/Lib/site-packages/pip-20.0.2.dist-info
+/samplesite/bboard/migrations

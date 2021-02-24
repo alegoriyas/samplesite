@@ -45,7 +45,8 @@
     <Compile Include="samplesite\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bboard\templates\bboard\index.html" />
+    <Content Include="bboard\templates\bboard\by_rubric.html" />
+    <Content Include="bboard\templates\bboard\home.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
